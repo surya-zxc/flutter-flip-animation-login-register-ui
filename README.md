@@ -1,13 +1,13 @@
 # Flutter Login and Register UI with Flip Animation
 
-Feel free to clone this UI and improve by your self
+Feel free to clone this UI and improve it
 
 ## Project Run
 
 Clone this Project
 
   ```bash
-  git clone 
+  git clone https://github.com/surya-zxc/flutter-flip-animation-login-register-ui.git
   
   ```
   
@@ -29,17 +29,8 @@ Project Run
 ```bash
   flutter run
 ```
-## Project ScreenShots
+## Project ScreenRecord
+https://github.com/user-attachments/assets/b163c3a0-098a-488e-a200-bea573aab590
 
-<table>
-  <tr>
-    <td>Login Page</td>
-    <td>Register Page</td>
-  </tr>
 
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>  
 
-</table>
